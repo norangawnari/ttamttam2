@@ -1,0 +1,29 @@
+{
+ "name": "땀땀 자수 작업대",
+ "short_name": "땀땀 자수",
+ "description": "글자·그림·도형을 자수로 만들고 PES·DST·JEF 파일을 열어 고치는 개인용 자수 작업대",
+ "lang": "ko",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#e7eaee",
+ "theme_color": "#0d7c74",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
